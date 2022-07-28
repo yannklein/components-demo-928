@@ -1,15 +1,8 @@
 .banner {
-  background-size: cover;
   color: white;
   padding: 120px 0;
-  text-shadow: 0 0 4px rgb(0 0 0 / 70%);
-  margin-bottom: 40px;
-}
-
-.banner h1, .banner p {
-  margin: 0;
-}
-
-.banner p {
+  background-size: cover;
+  background-position: 100% 50%;
+  text-shadow: 0 0 8px rgb(0 0 0 / 90%);
   margin-bottom: 32px;
 }
